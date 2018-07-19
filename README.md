@@ -12,11 +12,11 @@ copy the `vkb_usb` file to /usr/bin
 
 insert the following line into the `/etc/rc.local`
 
-		/usr/bin/vkb_usb
+	/usr/bin/vkb_usb
 
 connect `pi zero w` to computer and reboot system
 
 execute `press.py` script
 
-		sudo python3 press.py
+	sudo python3 press.py
 
