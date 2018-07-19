@@ -1,5 +1,7 @@
 # Diablo3AutoPress
 
+![photo](https://github.com/codemeow5/Diablo3AutoPress/raw/master/photo.jpg)
+
 ### reference links
 
 - https://randomnerdtutorials.com/raspberry-pi-zero-usb-keyboard-hid/
@@ -18,5 +20,9 @@ connect `pi zero w` to computer and reboot system
 
 execute `press.py` script
 
-	sudo python3 press.py
+	sudo python press.py
+
+or use `press_auto.py` that supports hardware buttons
+
+	sudo python press_auto.py
 
